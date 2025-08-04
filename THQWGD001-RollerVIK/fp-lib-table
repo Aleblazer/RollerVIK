@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "THQWGD001-RollerVIK")(type "KiCad")(uri "${KIPRJMOD}/THQWGD001-RollerVIK.pretty")(options "")(descr ""))
+)

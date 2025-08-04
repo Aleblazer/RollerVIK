@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "THQWGD001")(type "KiCad")(uri "${KIPRJMOD}/THQWGD001.kicad_sym")(options "")(descr ""))
+  (lib (name "vik")(type "KiCad")(uri "${KIPRJMOD}/vik.kicad_sym")(options "")(descr ""))
+)
